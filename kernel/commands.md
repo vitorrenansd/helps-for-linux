@@ -9,3 +9,5 @@
 - `rm -r` removes directories
 - `pwd` shows the full path of the current directory
 
+## Privileges
+- `sudo` is to run as administrator
